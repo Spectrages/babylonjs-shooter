@@ -22,5 +22,10 @@
   },
   "include": [
     "src"
+  ],
+  "types": [
+    "babylonjs",
+    "babylonjs-loaders",
+    ""
   ]
 }
